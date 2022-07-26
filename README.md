@@ -4,8 +4,7 @@
 참고 : https://github.com/rickiepark/handson-ml2
 
 ## PART 1 : 머신러닝
-ch1 : 한눈에 보는 머신러닝
-
+ch1 : 한눈에 보는 머신러닝  
 ch2 : 머신러닝 프로젝트 처음부터 끝까지
 
 ch3 : 분류
