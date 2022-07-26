@@ -1,6 +1,8 @@
 # Hands-On-Machine-Learning-2
 핸즈온 머신러닝2 요약정리
 
+참고 : https://github.com/rickiepark/handson-ml2
+
 ## PART 1 : 머신러닝
 ch1 : 한눈에 보는 머신러닝
 
