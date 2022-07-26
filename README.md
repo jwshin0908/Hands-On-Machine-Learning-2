@@ -1,4 +1,4 @@
-# Hands-On-Machine-Learning-2
+# 📕Hands-On-Machine-Learning-2
 핸즈온 머신러닝2 요약정리
 
 참고 : https://github.com/rickiepark/handson-ml2
